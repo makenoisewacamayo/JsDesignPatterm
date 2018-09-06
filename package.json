@@ -1,0 +1,13 @@
+{
+  "name": "js_design_pattern",
+  "version": "1.0.0",
+  "description": "JS Design pattern source code",
+  "contributors": [
+    "raff_cl (makenoisewacamayo)"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "express": "^4.13.4",
+    "requirejs-babel": "0.0.8"
+  }
+}

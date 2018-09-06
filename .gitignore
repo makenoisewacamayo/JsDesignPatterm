@@ -1,0 +1,7 @@
+.git
+.idea
+*.swp
+.DS_Store
+
+/node_modules
+/application_full_v2
